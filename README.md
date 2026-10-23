@@ -1,6 +1,4 @@
 
-
-### Copy ye:
 # GitLab2Safe-Defensive-Checker
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
